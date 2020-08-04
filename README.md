@@ -4,8 +4,8 @@
 # PinguBot_Discord.js
 A Discord bot made using Discord.js and Node.js. Noot noot! 🐧
 
-# Why I made this?
-Well for a long time I had been wanting to make a bot on Discord. The idea seemed fun. Bots are really cool to interact with, and for anyone stumbling on this page, I invite you to pick up any snippet from my code if it helps you build your own Discord bot! My main takeaway for this was to get to learn Node.js better and this side project proved to be a perfect intro into node. 
+# Why did I make this?
+Well for a long time I had been wanting to make a bot on Discord. The idea seemed fun. Bots are really cool to interact with, and for anyone stumbling on this page, I invite you to pick up any snippet from my code if it helps you build your own Discord bot! My main takeaway for this was to get to learn Node.js better and this side project proved to be a perfect intro into node. So making a bot with a whimsical twist was ideal for what I was looking for to achieve. 
 
 # What Can Pingu Bot do?
 While you won't find anything extraordinary as part of this bot’s functionality, it still might feature some neat commands for those interested in making a bot of their own. Pingu bot features **20 commands** with some additional secret ones triggered by certain messages. The default prefix for the bot is `">"` and that may be altered to anything else in the config.json file. 
