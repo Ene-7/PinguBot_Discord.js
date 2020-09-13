@@ -1,5 +1,5 @@
 ![version](https://img.shields.io/badge/PinguBot-v1.2.0-orange)
-![node-fetch](https://img.shields.io/badge/node--fetch-%5E2.6.0-informational)
+![node-fetch](https://img.shields.io/badge/node--fetch-%5E2.6.1-informational)
 ![discord.js](https://img.shields.io/badge/discord.js-%5E12.2.0-informational)
 # PinguBot_Discord.js
 A Discord bot made using Discord.js and Node.js. Noot noot! 🐧
